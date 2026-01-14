@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "YEAH RIGHT",
+  "base_artist": "Joji",
+  "createdAt": "2026-01-14T08:07:06.296270Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Girlschool",
+      "has_synced": true,
+      "path": "select/01_Yeah_Right_Girlschool.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/02_Yeah_Right_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Yeah Right!",
+      "artist": "Twisted Sister",
+      "has_synced": false,
+      "path": "select/03_Yeah_Right!_Twisted_Sister.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Yeah Right (Science, Science)",
+      "artist": "P.O.S",
+      "has_synced": true,
+      "path": "select/04_Yeah_Right_(Science,_Science)_P.O.S.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Kaskade",
+      "has_synced": true,
+      "path": "select/05_Yeah_Right_Kaskade.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Toro y Moi",
+      "has_synced": true,
+      "path": "select/06_Yeah_Right_Toro_y_Moi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Vince Staples",
+      "has_synced": true,
+      "path": "select/07_Yeah_Right_Vince_Staples.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/08_Yeah_Right_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "YEAH RIGHT",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/09_YEAH_RIGHT_Joji.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Yeah, Right",
+      "artist": "Reverend Horton Heat",
+      "has_synced": false,
+      "path": "select/10_Yeah,_Right_Reverend_Horton_Heat.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Joji",
+      "has_synced": true,
+      "path": "select/11_Yeah_Right_Joji.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yeah Right",
+      "artist": "Evanescence",
+      "has_synced": true,
+      "path": "select/12_Yeah_Right_Evanescence.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yeah Right - Live on the Richard Skinner Show, BBC Radio 1, 26 January 1981",
+      "artist": "Girlschool",
+      "has_synced": false,
+      "path": "select/13_Yeah_Right_-_Live_on_the_Richard_Skinner_Show,_BBC_Radio_1,_26_January_1981_Girlschool.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yeah, Right",
+      "artist": "Dinosaur Jr.",
+      "has_synced": true,
+      "path": "select/14_Yeah,_Right_Dinosaur_Jr..lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "No Future? Yeah Right",
+      "artist": "You Me At Six feat. Rou Reynolds",
+      "has_synced": true,
+      "path": "select/15_No_Future__Yeah_Right_You_Me_At_Six_feat._Rou_Reynolds.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "No Future? Yeah Right",
+      "artist": "You Me at Six",
+      "has_synced": true,
+      "path": "select/16_No_Future__Yeah_Right_You_Me_at_Six.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YEAH RIGHT",
+      "artist": "Joji",
+      "has_synced": false,
+      "path": "select/pl_01_YEAH_RIGHT_Joji.txt"
+    }
+  ]
+}
